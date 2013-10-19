@@ -1,3 +1,9 @@
-/target
+.classpath
+.project
+.settings
 .DS_Store
 RemoteSystemsTempFiles
+.metadata
+target
+.idea
+*.iml
