@@ -63,10 +63,9 @@ public class OrderTest {
 	public void testGetOrderItemBySku() {
 		order.addItem(orderItem1);
 		order.addItem(orderItem2);
-
 		// expect orderItem2 sku to be 123
 
-		order.getOrderItem("123");
+        order.getOrderItem("123");
 
 		// expect get sku to be called
 	}
