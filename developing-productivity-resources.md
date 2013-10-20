@@ -5,6 +5,8 @@ The following are the books, links and tools referenced in the Developing Produc
 
 http://www.612softwarefoundry.com/developing-productivity-tccc/
 
+Slides: http://www.slideshare.net/jennapederson/developing-productivity-27372305
+
 Books
 ------
 
@@ -28,7 +30,7 @@ Tools
 - Dotfiles - http://dotfiles.github.io/
 - Bash It - https://github.com/revans/bash-it
 - Mousefeed - eclipse - http://download.sigasi.com/update/mousefeed/
-- Keyprompter - Intellij - http://plugins.jetbrains.com/plugin/4455 
+- Keypromoter - Intellij - http://plugins.jetbrains.com/plugin/4455 
 - cygwin - win - http://www.cygwin.com/ 
 - iterm2 - osx - http://www.iterm2.com/#/section/home 
 - Jumpcut - osx - http://jumpcut.sourceforge.net/
